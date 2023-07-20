@@ -1,0 +1,17 @@
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net7.0\CleanArchMvc.Infra.Data.deps.json
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net7.0\CleanArchMvc.Infra.Data.dll
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net7.0\CleanArchMvc.Infra.Data.pdb
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net7.0\CleanArchMvc.Domain.dll
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net7.0\CleanArchMvc.Domain.pdb
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.csproj.AssemblyReference.cache
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.AssemblyInfoInputs.cache
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.AssemblyInfo.cs
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.csproj.CoreCompileInputs.cache
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.csproj.CopyComplete
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.dll
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\refint\CleanArchMvc.Infra.Data.dll
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.pdb
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\ref\CleanArchMvc.Infra.Data.dll
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\bin\Debug\net7.0\CleanArchMvc.Infra.Data.runtimeconfig.json
+C:\estudos\dotNETCore\CleanArchMvc\CleanArchMvc.Infra.Data\obj\Debug\net7.0\CleanArchMvc.Infra.Data.genruntimeconfig.cache
